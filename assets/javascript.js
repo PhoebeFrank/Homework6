@@ -54,6 +54,8 @@ function searchGifs() {
             animalDiv.append(animalImage);
 
             $("#gifs-appear-here").prepend(animalDiv);
+
+
         }
     });
 };
